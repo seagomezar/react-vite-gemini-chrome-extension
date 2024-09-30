@@ -1,55 +1,96 @@
-## Contribuciones
+## 🤝 Contributions #AISprint
 
-¡Agradecemos tus contribuciones para mejorar este starter de extensiones de Chrome! Aquí hay algunas formas en que puedes participar:
+We welcome your contributions to improve this Chrome extension starter! Here are some ways you can get involved:
 
-**1. Informar errores (Issues):**
+### 1. 🐛 Report Bugs (Issues)
 
-* Si encuentras un error o problema, por favor abre un nuevo issue en este repositorio. 
-* Describe el problema con claridad, incluyendo los pasos para reproducirlo y el comportamiento esperado.
-* Si es posible, proporciona información sobre tu sistema operativo y navegador.
+- If you find a bug or problem, please open a new issue in this repository.
+- 📝 **Describe** the problem clearly, including steps to reproduce it and the expected behavior.
+- 🖥️ Provide information about your operating system and browser if possible.
 
-**2. Solicitar nuevas características (Features):**
+### 2. 🌟 Request New Features
 
-* Si tienes alguna idea para una nueva característica que te gustaría ver en este starter, por favor abre un nuevo issue con la etiqueta "feature request".
-* Describe la característica en detalle y por qué crees que sería útil.
+- Have an idea for a new feature? Open a new issue labeled **"Feature Request"**.
+- 💡 **Describe** the feature in detail and explain why it would be useful.
 
-**3. Proponer mejoras (Enhancements):**
+### 3. 🛠️ Propose Enhancements
 
-* Si tienes alguna sugerencia para mejorar el código o la documentación, abre un nuevo issue con la etiqueta "enhancement".
-* Describe la mejora que propones y cómo crees que beneficiará al proyecto.
+- Suggest improvements to the code or documentation by opening a new issue labeled **"Enhancement"**.
+- 📈 **Explain** how your suggestion benefits the project.
 
-**4. Enviar código (Pull Requests):**
+### 4. 💻 Submit Code (Pull Requests)
 
-* Si quieres contribuir con código, puedes enviar un Pull Request (PR) a este repositorio.
-* Antes de enviar un PR, asegúrate de que tu código cumple con las siguientes pautas:
-    * Se ha probado y funciona correctamente.
-    * Se ha documentado adecuadamente.
-    * Se ha formateado correctamente usando el estilo del código existente.
-    * Se ha creado un nuevo issue para la nueva característica o corrección de errores.
-    * Se ha añadido una prueba de unidad para el nuevo código.
-    * Se ha actualizado el archivo README.md con las nuevas características o cambios.
-* Asegúrate de que tu PR se basa en la rama `main`.
-* Describe claramente los cambios que has realizado en la solicitud de PR.
+- Want to contribute code? Submit a **Pull Request (PR)**!
+- Before submitting, make sure your code:
+  - ✅ **Works correctly** and has been tested.
+  - 📚 Is **well-documented**.
+  - 🎨 Follows the existing **code style**.
+  - 📝 Has an associated **issue** for the new feature or bug fix.
+  - 🧪 Includes **unit tests** for new code.
+  - 📄 Updates the **`README.md`** with any new features or changes.
+- Ensure your PR is based on the **`main`** branch.
+- ✍️ **Clearly describe** the changes you've made in the PR.
 
-**Guía para contribuir**
+---
 
-1. **Crear un fork del repositorio:** Haz clic en el botón "Fork" en la parte superior del repositorio.
-2. **Clonar el repositorio:**  Clona tu fork a tu computadora local: `git clone <tu-url-del-fork>`
-3. **Crear una nueva rama:** Crea una nueva rama para tus cambios: `git checkout -b <nombre-de-la-rama>`
-4. **Realiza tus cambios:** Haz los cambios necesarios en el código.
-5. **Comprobar los cambios:**  Asegúrate de que tus cambios funcionen correctamente.
-6. **Agregar los cambios:** Agrega los cambios a tu rama: `git add .`
-7. **Confirmar los cambios:**  Confirma los cambios: `git commit -m "Mensaje descriptivo del commit"`
-8. **Enviar los cambios:**  Envía los cambios a tu fork: `git push origin <nombre-de-la-rama>`
-9. **Abrir un Pull Request:** En tu fork, haz clic en el botón "New pull request" y completa la información necesaria.
+### 🚀 Contribution Guide
 
-**Normas de estilo de código:**
+1. **🍴 Fork the Repository**
+   - Click the **"Fork"** button at the top of the repository.
 
-* Se recomienda utilizar Prettier para formatear el código.
-* Se recomienda utilizar ESLint para detectar errores de estilo y código.
+2. **📥 Clone Your Fork**
+   - Clone your fork to your local machine:
+     ```bash
+     git clone <your-fork-url>
+     ```
 
-**Licencia:**
+3. **🌿 Create a New Branch**
+   - Create a branch for your changes:
+     ```bash
+     git checkout -b <branch-name>
+     ```
 
-Este proyecto está bajo la licencia MIT. Puedes utilizar el código para cualquier propósito, siempre y cuando incluyas el aviso de copyright.
+4. **💡 Make Your Changes**
+   - Implement your changes or new features.
 
-**Agradecemos tu ayuda para mejorar este proyecto!**
+5. **🧪 Test Your Changes**
+   - Ensure everything works as expected.
+
+6. **➕ Stage Changes**
+   - Add your changes:
+     ```bash
+     git add .
+     ```
+
+7. **✅ Commit Changes**
+   - Commit with a descriptive message:
+     ```bash
+     git commit -m "Add awesome feature"
+     ```
+
+8. **🚀 Push Changes**
+   - Push to your forked repository:
+     ```bash
+     git push origin <branch-name>
+     ```
+
+9. **🔃 Open a Pull Request**
+   - Go to your fork on GitHub and click **"New Pull Request"**.
+   - Fill out the template with details about your changes.
+
+---
+
+### 🎨 Code Style Guidelines
+
+- ✨ Use **Prettier** for consistent code formatting.
+- 🚨 Utilize **ESLint** to catch style issues and errors.
+
+---
+
+### 📄 License
+
+This project is under the **MIT License**. Feel free to use the code for any purpose, but please include the original copyright notice.
+
+---
+
+**🙏 Thank you for helping us improve this project!** Let's build something amazing together. #AISprint 🚀

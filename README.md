@@ -18,7 +18,7 @@ This is a sample project to create a minimalist Chrome extension using **React**
 ## 🚀 Usage
 
 1. In the Chrome extensions page (`chrome://extensions`), enable developer mode.
-2. Click **"Load unpacked"** and select the project folder.
+2. Click **"Load unpacked"** and select the project **dist** folder.
 
 ## 📁 Important Files
 
